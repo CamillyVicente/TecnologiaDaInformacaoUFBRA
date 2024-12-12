@@ -3,3 +3,5 @@
 Professor Ronaldo Emerick - Administração - Dez/24
 
 Projeto para aprendizado - Dashboards utilizando PowerBI
+
+<img align="center" src=""/>
